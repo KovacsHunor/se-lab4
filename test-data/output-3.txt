@@ -1,2 +1,0 @@
-SUCCESS                     #creating the ship
-usage: TORPEDO,<SINGLE|ALL> #trying to fire torpedo

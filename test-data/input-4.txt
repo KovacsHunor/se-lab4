@@ -1,1 +1,0 @@
-GT4500  # try to create ship with incorrect parameters
