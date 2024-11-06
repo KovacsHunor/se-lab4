@@ -1,0 +1,1 @@
+TORPEDO,SINGLE  # try to fire without ship
