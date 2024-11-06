@@ -1,0 +1,4 @@
+# Create a ship with stocked torpedo stores with space for only 1-1 torpedo
+GT4500,1,0,1,0
+TORPEDO,ALL # fire both
+TORPEDO,SINGLE # try to fire again
