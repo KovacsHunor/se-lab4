@@ -1,0 +1,6 @@
+# Create a ship with stocked torpedo stores with space for only 1-1 torpedo
+GT4500,1,0,2,0
+TORPEDO,SINGLE # fire primary
+TORPEDO,SINGLE # fire secondary
+TORPEDO,SINGLE # fire secondary again since primary is empty
+TORPEDO,SINGLE # try to fire, but there are no more torpedos
